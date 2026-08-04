@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
