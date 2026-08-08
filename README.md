@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1672-richest-customer-wealth) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
