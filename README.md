@@ -74,5 +74,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0876-middle-of-the-linked-list](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
