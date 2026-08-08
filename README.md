@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -75,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
+| [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
