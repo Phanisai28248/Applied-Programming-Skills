@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
@@ -129,4 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
