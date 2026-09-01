@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
+| [0283-move-zeroes](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
