@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
