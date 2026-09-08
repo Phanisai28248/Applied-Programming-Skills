@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0946-validate-stack-sequences) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
