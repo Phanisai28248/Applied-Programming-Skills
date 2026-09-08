@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
