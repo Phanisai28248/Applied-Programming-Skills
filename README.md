@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 ## Binary Search
@@ -174,11 +178,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -272,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Phanisai28248/Applied-Programming-Skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
